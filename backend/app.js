@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 const Routes  = require("./routes/user")
 const dotenv = require("dotenv");
 dotenv.config();
-const uri = "mongodb+srv://taskApp:manohar123@cluster1.evas9.mongodb.net/test?retryWrites=true&w=majority";
+const uri = "";
 // const uri = process.env.MONGO_URL;
 mongoose.connect(uri,{useNewUrlParser:true,useCreateIndex:true,useUnifiedTopology:true})
 
