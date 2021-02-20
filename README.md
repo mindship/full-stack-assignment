@@ -10,7 +10,7 @@
 
 **Stack:**
 - Frontend: React JS(required) with typescript (preferred)
-- Backend: Node JS/ Go/ Python / ruby
+- Backend: Node.js/Go/Python/Ruby/Java
 - Database: SQL/No SQL
 
 
